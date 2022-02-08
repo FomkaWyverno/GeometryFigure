@@ -1,0 +1,27 @@
+.button {
+    -fx-background-color:  #cec7c7;
+    -fx-background-radius:  30;
+    -fx-border-color:  green    ;
+    -fx-border-radius: 30;
+}
+
+#mousePosition {
+    -fx-text-fill: black;
+    -fx-prompt-text-fill: white;
+    -fx-border-color: gray;
+    -fx-background-color: null;
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+    -fx-font-weight: regular;
+    
+}
+.text-field {
+    -fx-text-fill: #ffebef;
+    -fx-prompt-text-fill: pink;
+    -fx-border-color: #f2aade;
+    -fx-background-color: #a8a8a8;
+    -fx-border-radius: 40;
+    -fx-background-radius: 40;
+    -fx-font-weight: bold;
+}
+
